@@ -11,8 +11,8 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Main />} />
-        <Route path="/preview" element={<Preview />} />
+        <Route path="/02-react-redux-template" element={<Main />} />
+        <Route path="/02-react-redux-template/preview" element={<Preview />} />
       </Routes>
     </Router>
     </div>

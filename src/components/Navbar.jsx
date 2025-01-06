@@ -7,11 +7,11 @@ function Navbar() {
     const componentsList = [
         {
             tabName: "Home",
-            path: "/",
+            path: "/02-react-redux-template",
         },
         {
             tabName: "preview",
-            path: "/preview",
+            path: "/02-react-redux-template/preview",
         },
     ];
 
